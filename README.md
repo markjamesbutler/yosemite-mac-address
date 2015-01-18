@@ -8,6 +8,6 @@ Quickly changing your mac address on OSX Yosemite. This is useful when connectin
 ### How do I run it?
 
 ```
-chmod +x
+chmod +x mac.sh
 sudo ./mac.sh
 ```
