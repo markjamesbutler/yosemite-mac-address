@@ -1,5 +1,5 @@
 ## yosemite-mac-address
-Script to change the mac address on yosemite
+Script to change the mac address on Yosemite (version 10.10)
 
 ### What's it for?
 
